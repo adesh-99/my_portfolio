@@ -50,7 +50,7 @@ html, body{
     height: 100%;
     width: 3.7vw;
     margin-right: 1vw;
-    border: 1px solid black;
+    border: 2px solid rgb(228, 5, 228);
     border-radius: 50%;
     cursor: pointer;
 }
