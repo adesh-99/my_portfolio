@@ -7,4 +7,3 @@ function hidenav(){
     const sidebar = document.querySelector('.mynavmobile');
     sidebar.style.display = "none";
 }
-

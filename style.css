@@ -10,9 +10,6 @@ html, body{
     width: 100%;
 }
 
-
-
-
 .main{
     height: 100%;
     width: 100%;
@@ -104,6 +101,10 @@ button{
 .right img{
     height: 100%;
     width: 100%;
+}
+
+.mynavmobile {
+    display: none;
 }
 
 @media (max-width: 600px) {
